@@ -13,10 +13,10 @@ git clone https://github.com/Jooi025/BrawlStarsBot.git
 ```
 cd BrawlStarsBot
 pip install -r requirements.txt
-``
+```
 
 ### Update Repo 
-``
+```
 cd BrawlStarsBot
 git pull
 ``
