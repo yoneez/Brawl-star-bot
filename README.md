@@ -27,3 +27,4 @@ git pull
 
 
 WARNING I used this bot for the base https://github.com/Jooi025/BrawlStarsBot/tree/main
+(only work in showdown)
